@@ -1,2 +1,2 @@
-# jupyter-notebook
+# TnT Lab
 contains python progms
